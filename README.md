@@ -11,14 +11,6 @@
 <img src="https://raw.githubusercontent.com/ankurg132/ankurg132/output/snake.svg" alt="Snake animation" />
 </div>
 
-
-<table>
-  <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=SHUBHAMRAJPUT9665&theme=dark&show_icons=true&hide_border=false&count_private=true"" alt="Chinmay Kotkar" /></td>
-     <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=SHUBHAMRAJPUT9665&theme=dark&hide_border=false" alt="Chinmay Kotkar" /></td>
-  </tr>
-</table>
-
 <center>
 
 ![SHUBHAMRAJPUT9665's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SHUBHAMRAJPUT9665&theme=dark&show_icons=true&hide_border=false&layout=compact)
