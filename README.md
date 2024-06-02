@@ -1,20 +1,6 @@
-- 👽 Fun fact: nobody knows
-
-[![Linkedin Badge](https://img.shields.io/badge/-Shubham.Rajput-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shubhamrajput07/)](https://www.linkedin.com/in/shubhamrajput07/)
-[![Instagram Badge](https://img.shields.io/badge/-Shubham.Rajput-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/_shubhamrajput_07/)](https://www.instagram.com/_shubhamrajput_07/)
-
-
-
-
-
-## 🥷  Technologies
-
 <p align="center">
   <img src = "https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExenM0bWRoMHl3cjdyMDRiYm90MXg4MzA0azRvdjU5bjIzMG1sZ3l0ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HscDLzkO8EOTmgkhQP/giphy.gif" width = 100px> <br>
 <br>
-
-### Language :
-
 <br>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=SHUBHAMRAJPUT9665" alt="Chinmay-03" /></a> </p>
