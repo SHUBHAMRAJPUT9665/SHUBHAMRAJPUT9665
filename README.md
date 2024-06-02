@@ -1,10 +1,3 @@
--   Hi I'am Shubham Rajput
-
-- 💻 JavaScript aficionado, DevOps enthusiast, AI/ML explorer.
-
-- 🌱 Mastering languages, sculpting tomorrow's tech.
-
-- 💡 Seeking groundbreaking collaborations.
 - 👽 Fun fact: nobody knows
 
 [![Linkedin Badge](https://img.shields.io/badge/-Shubham.Rajput-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shubhamrajput07/)](https://www.linkedin.com/in/shubhamrajput07/)
