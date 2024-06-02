@@ -10,9 +10,3 @@
 
 <img src="https://raw.githubusercontent.com/ankurg132/ankurg132/output/snake.svg" alt="Snake animation" />
 </div>
-
-<center>
-
-![SHUBHAMRAJPUT9665's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SHUBHAMRAJPUT9665&theme=dark&show_icons=true&hide_border=false&layout=compact)
-</center>
- 
