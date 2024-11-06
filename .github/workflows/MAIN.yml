@@ -6,42 +6,42 @@ on:
   schedule:
     # every 6 hours
     - cron: "0 */6 * * *"
-  # This command allows us to run the Action manually from the Actions tab.
+  # Allows manual triggering from the Actions tab.
   workflow_dispatch:
 
-# The sequence of runs in this workflow:
+# Job sequence in this workflow:
 jobs:
-  # This workflow contains a single job called "build"
+  # Single job called "build"
   build:
     # The type of runner that the job will run on
     runs-on: ubuntu-latest
 
-    # Steps represent a sequence of tasks that will be executed as part of the job
+    # Steps to execute
     steps:
-      # Checks out your repository under $GITHUB_WORKSPACE, so the job can access it
-      - uses: actions/checkout@v2
+      # Checks out your repository under $GITHUB_WORKSPACE to give the job access
+      - uses: actions/checkout@v3  # Updated to the latest version to avoid Node.js deprecation warnings
 
       # Generates the snake SVG and GIF
       - uses: Platane/snk@master
         id: snake-gif
         with:
           github_user_name: SHUBHAMRAJPUT9665
-          # Generate the files on a branch called "output" to keep the main branch clean
+          # Generate files on a branch called "output" to keep the main branch clean
           gif_out_path: dist/github-contribution-grid-snake.gif
           svg_out_path: dist/github-contribution-grid-snake.svg
 
-      # Show the status of the build. This helps with debugging if there are any issues.
+      # Show the status of the build (for debugging)
       - run: git status
 
       # Commit and push the generated snake SVG/GIF to the output branch
       - name: Push changes
-        uses: ad-m/github-push-action@master
+        uses: ad-m/github-push-action@v0.6.0  # Use the latest version
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           branch: output
           force: true
 
-      # Deploy the generated files to the GitHub Pages (optional, only if you want to display it on GitHub Pages)
+      # Deploy to GitHub Pages (optional; only if you want to display it on GitHub Pages)
       - name: Deploy to GitHub Pages
         uses: crazy-max/ghaction-github-pages@v2.1.3
         with:
