@@ -8,5 +8,5 @@
 <div align="center">
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/ankurg132/ankurg132/output/snake.svg" alt="Snake animation" />
+![snake gif](https://github.com/SHUBHAMRAJPUT9665/SHUBHAMRAJPUT9665/blob/output/github-snake-dark.svg)
 </div>
